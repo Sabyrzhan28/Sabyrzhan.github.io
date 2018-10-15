@@ -917,6 +917,10 @@ nav{
 
 
 @media( max-width:420px) {
+	body{
+		width:100%;
+	}
+	
 	.osn-background{
 		background-position: center;
 	}
