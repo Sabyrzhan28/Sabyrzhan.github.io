@@ -918,7 +918,7 @@ nav{
 
 @media( max-width:420px) {
 	body{
-		width:100%;
+		width:420px;
 	}
 	
 	.osn-background{
